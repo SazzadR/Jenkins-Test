@@ -10,7 +10,7 @@ def fibonacci():
 def main():
     fib = fibonacci()
 
-    for n in range(0, 100):
+    for n in range(0, 10):
         print(next(fib))
 
 
